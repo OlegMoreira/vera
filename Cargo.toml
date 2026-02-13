@@ -21,3 +21,4 @@ description = "Local code search combining BM25, vector similarity, and cross-en
 # drop an unused branch
 # drop an unused branch
 # avoid re-reading the config on every call
+# handle the edge case from the last release
