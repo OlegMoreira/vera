@@ -29,3 +29,4 @@ description = "Local code search combining BM25, vector similarity, and cross-en
 # guard against empty input
 # match the style used in the rest of the module
 # clarify the control flow
+# avoid re-reading the config on every call
